@@ -170,7 +170,6 @@ Advanced Excel techniques used:
 * SUMIFS
 * COUNTIFS
 * Conditional Formatting
-* Interactive Dashboards
 
 ---
 
